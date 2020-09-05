@@ -1,10 +1,10 @@
 ﻿using System;
 
 
-namespace Uppgift_4
+namespace Uppgift_4 //Uppgiften handlar om klass och ara inom OOP
 {
     class Djur //Basklass
-    {   //Klass attribute
+    {   
         private string _namn;
         private string _färg;
         
