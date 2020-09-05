@@ -1,0 +1,13 @@
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\bin\Debug\netcoreapp3.1\Uppgift_4.exe
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\bin\Debug\netcoreapp3.1\Uppgift_4.deps.json
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\bin\Debug\netcoreapp3.1\Uppgift_4.runtimeconfig.json
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\bin\Debug\netcoreapp3.1\Uppgift_4.runtimeconfig.dev.json
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\bin\Debug\netcoreapp3.1\Uppgift_4.dll
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\bin\Debug\netcoreapp3.1\Uppgift_4.pdb
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\obj\Debug\netcoreapp3.1\Uppgift_4.AssemblyInfoInputs.cache
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\obj\Debug\netcoreapp3.1\Uppgift_4.AssemblyInfo.cs
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\obj\Debug\netcoreapp3.1\Uppgift_4.csproj.CoreCompileInputs.cache
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\obj\Debug\netcoreapp3.1\Uppgift_4.dll
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\obj\Debug\netcoreapp3.1\Uppgift_4.pdb
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\obj\Debug\netcoreapp3.1\Uppgift_4.genruntimeconfig.cache
+C:\Users\Victor Jacobson\OneDrive\Desktop\Programmering-2\Delmoment-4\Uppgift_4\Uppgift_4\obj\Debug\netcoreapp3.1\Uppgift_4.csprojAssemblyReference.cache
